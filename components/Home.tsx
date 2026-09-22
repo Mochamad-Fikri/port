@@ -128,16 +128,16 @@ export default function AboutPage() {
 
             {[
               {
-                company: "Freelance",
-                role: "Frontend Developer",
-                period: "2024 — Present",
-                desc: "Built websites and web applications for clients across various industries, focusing on Next.js, Tailwind, and optimal performance .",
+                company: "PT Digital Impact Nusantara",
+                role: "Fullstack Developer",
+                period: "2025 — Present",
+                desc: "Developed end-to-end web solutions for clients across various industries, from responsive frontends to backend systems and integrations, using Next.js, Tailwind CSS, and modern web technologies .",
               },
               {
-                company: "Studio / Company Name",
-                role: "Web Developer",
-                period: "2023 — 2024",
-                desc: "Collaborated within a team to develop digital products, responsible for UI implementation and API integration .",
+                company: "PT Jasamarga Toll Road Operator",
+                role: "Customer Service Officer & Central Communication",
+                period: "2023 — 2025",
+                desc: "Assisted toll road customers, monitored transactions, and handled payment and shift reporting & Monitored toll road operations, coordinated patrols, and managed traffic and incident reporting .",
               },
             ].map((exp, i) => (
               <div
